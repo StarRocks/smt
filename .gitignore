@@ -1,0 +1,5 @@
+vendor
+dist
+result
+go.work.sum
+go.sum
